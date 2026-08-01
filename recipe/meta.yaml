@@ -1,4 +1,4 @@
-{% set version = "0.3.0" %}
+{% set version = "0.4.1" %}
 
 package:
   name: jdeskew
@@ -6,7 +6,7 @@ package:
 
 source:
   url: https://pypi.org/packages/source/j/jdeskew/jdeskew-{{ version }}.tar.gz
-  sha256: 3e190675faeb9241692122a7e7c78abd86d8a58428211f0016644773e971bd95
+  sha256: f578c182d5a6b5b49687340402a5e9399f3e62dfb4945ad76cb1d2cc51e35714
 
 build:
   noarch: python
